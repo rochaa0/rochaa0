@@ -1,5 +1,8 @@
-### Hi there 👋
+Hey, meu nome é Gustavo Rocha e seja bem vindo ao meu perfil  😄👋
 
+Me chamo Gustavo Rocha e tenho 19 anos, atualmente estou cursando a graduação em gestão pública pela Cruzeiro do Sul Virtual, possuo o curso técnico em Desenvolvimento de Sistemas que realizei na ETEC de Guarulhos.
+
+Sempre fui apaixonado por programação, e tenho um certo carinho pelo BackEnd (PHP, Laravel, C#, JavaScript ...) tanto que estou a procura de uma oportunidade na área.
 <!--
 **rochaa0/rochaa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
